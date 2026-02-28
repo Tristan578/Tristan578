@@ -10,9 +10,9 @@ I build AI systems that enhance human capability and organizational effectivenes
 
 ### Currently Building
 
-* **[Ember: Authentic Voice at Scale](https://www.tristan-nolan.com/ember):** A multi-agent system currently in private alpha, built to scale authentic human voice without generating "AI slop." It utilizes a custom **OWA Architecture** (Orchestrator, Worker, Antagonist) to enforce quality and prevent hallucination through rigorous, adversarial review. 
+* **[Ember: Authentic Voice at Scale](https://www.ember-voice.com):** A multi-agent system currently in private alpha, built to scale authentic human voice without generating "AI slop." It utilizes a custom **OWA Architecture** (Orchestrator, Worker, Antagonist) to enforce quality and prevent hallucination through rigorous, adversarial review. 
 * **[Agentic AI Research](https://github.com/Tristan578/research-team-tutorial):** Open-source exploration of Claude code subagents, tools, and Model Context Protocol (MCP) server integrations.
-* **[Project Forge](https://github.com/Tristan578/project-forge):** An AI-native 3D game engine for the browser. Leveraging WebGPU, Rust, and MCP commands to allow LLMs and agents to build complete interactive environments via natural language.
+* **[GenForge](https://github.com/Tristan578/project-forge):** An AI-native 3D game engine for the browser. Leveraging WebGPU, Rust, and MCP commands to allow LLMs and agents to build complete interactive environments via natural language.
 
 ### Recent Writing & Thinking
 
