@@ -22,7 +22,8 @@ I build AI systems that enhance human capability and organizational effectivenes
 ### Technical Stack
 
 * **AI & Agentic Dev:** Claude Agent SDK, LangChain, MCP (Model Context Protocol), Google ADK, Multi-Agent Orchestration.
-* **Engineering:** Python, TypeScript, C#, SQL.
-* **Infrastructure:** GCP, Azure, Supabase, Vercel.
+* **Engineering:** Python, TypeScript, C#, SQL, Rust.
+* **Infrastructure:** GCP, Azure, Supabase, Vercel, Railway.
+* **Observability & Analytics:** Tableau, Salesforce, Sentry, Posthog, Pendo, Hotjar, LaunchDarkly.
 
 > *"The biggest leap in AI isn't a bigger model—it's smarter placement of it."*
