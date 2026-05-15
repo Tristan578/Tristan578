@@ -2,7 +2,7 @@
 
 **Senior Product Leader | Human-Centered AI Systems | Pursuing PhD in HCI (Fall 2026)**
 
-[Website](https://www.tristan-nolan.com) | [LinkedIn](https://www.linkedin.com/in/nolantj/) | [Read my AI Philosophy](https://www.tristan-nolan.com/on-ai)
+[Website](https://www.tnolan.ai) | [LinkedIn](https://www.linkedin.com/in/nolantj/) | [Read my AI Philosophy](https://www.tnolan.ai/on-ai)
 
 We are currently in a "Velocity-First" era of AI development that prioritizes speed over safety, often resulting in dissolved context and accuracy collapse. My focus is on building for **Integrity-First**. If a system is viable and feasible but ethically compromised, it is a failed product.
 
