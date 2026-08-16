@@ -1,6 +1,6 @@
 # Tristan J. Nolan
 
-**Senior Product Leader | Human-Centered AI Systems | Pursuing PhD in HCI (Fall 2026)**
+**Senior Product Leader | Human-Centered AI Systems**
 
 [Website](https://www.tnolan.ai) | [LinkedIn](https://www.linkedin.com/in/nolantj/) | [Read my AI Philosophy](https://www.tnolan.ai/on-ai)
 
